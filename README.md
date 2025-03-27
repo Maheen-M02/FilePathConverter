@@ -4,6 +4,8 @@ A simple tool to convert Windows file paths into ML-compatible formats. This sof
 
 
 Slash format (/) – For compatibility with most ML frameworks.
+
+
 Raw Windows format (r"\\\\") – For cases requiring double backslashes.
 
 Features
@@ -13,5 +15,5 @@ Features
 / (for ML and Linux-based compatibility)
 
 r"\\" (for Windows-specific raw strings)
-✅ Available as a GUI (Tkinter Desktop App) and FastAPI Web API
+✅ Available as a GUI (Tkinter Desktop App)
 ✅ Lightweight and easy to integrate into ML pipelines
