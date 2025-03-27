@@ -16,9 +16,9 @@ Features:
 
 ✅ Allows conversion to two formats:
 
-/ (for ML and Linux-based compatibility)
+- / (for ML and Linux-based compatibility)
 
-r"\\" (for Windows-specific raw strings)
+- r"\\" (for Windows-specific raw strings)
 
 
 ✅ Available as a GUI (Tkinter Desktop App)
