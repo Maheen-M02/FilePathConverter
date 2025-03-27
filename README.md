@@ -9,7 +9,11 @@ A simple tool to convert Windows file paths into ML-compatible formats. This sof
 2] Raw Windows format (r"\\\\") – For cases requiring double backslashes.
 
 Features
+
+
 ✅ Supports manual input or file selection
+
+
 ✅ Allows conversion to two formats:
 
 / (for ML and Linux-based compatibility)
