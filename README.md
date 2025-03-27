@@ -1,6 +1,8 @@
 # FilePathConverter
 
 A simple tool to convert Windows file paths into ML-compatible formats. This software allows users to choose between:
+
+
 Slash format (/) – For compatibility with most ML frameworks.
 Raw Windows format (r"\\\\") – For cases requiring double backslashes.
 
