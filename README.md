@@ -8,7 +8,7 @@ A simple tool to convert Windows file paths into ML-compatible formats. This sof
 
 2] Raw Windows format (r"\\\\") – For cases requiring double backslashes.
 
-Features
+Features:
 
 
 ✅ Supports manual input or file selection
@@ -19,5 +19,8 @@ Features
 / (for ML and Linux-based compatibility)
 
 r"\\" (for Windows-specific raw strings)
+
+
 ✅ Available as a GUI (Tkinter Desktop App)
+
 ✅ Lightweight and easy to integrate into ML pipelines
